@@ -1,0 +1,40 @@
+body {
+  background-color: #E0BBE4;
+}
+
+h1{
+  text-align: center;
+  color: #040E62;
+  font-size: 35pt;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 30px;
+  margin: 100px 485px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h2{
+  color: #F39E1D;
+  font-size: 30pt;
+}
+
+.container p{
+  font-size: 20pt;
+}
+
+.text {
+  color: #FFF5B7;
+}
+
+.btn {
+  border: 1px solid transparent;
+  background: none;
+  padding: 5px 20px;
+  font-size: 25px;
+  cursor: pointer;
+  margin: 10px;
+  color: #A01F1E;
+  background-color: #52CEA5;
+}
